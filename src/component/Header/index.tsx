@@ -3,7 +3,7 @@ import DropdownMessage from "./DropdownMessage";
 import DropdownNotification from "./DropdownNotification";
 import DropdownUser from "./DropdownUser";
 import Image from "next/image";
-import Logo from "../../../public/imgaes/logo.jpg"
+import Logo from "../../../public/images/logo.jpg"
 
 const Header = (props) => {
   return (
